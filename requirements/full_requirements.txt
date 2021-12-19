@@ -88,7 +88,7 @@ msrestazure==0.6.2        # via azure-graphrbac, azure-mgmt-authorization, azure
 mypy-extensions==0.4.3    # via typing-inspect
 ndg-httpsclient==0.5.1    # via azureml-core
 numexpr==2.7.1            # via -r requirements.in, gordo-dataset
-numpy==1.18.1             # via -r requirements.in, catboost, h5py, keras-applications, keras-preprocessing, matplotlib, mlflow, numexpr, opt-einsum, pandas, pyarrow, scikit-learn, scipy, tensorboard, tensorflow
+numpy==1.22.0rc1             # via -r requirements.in, catboost, h5py, keras-applications, keras-preprocessing, matplotlib, mlflow, numexpr, opt-einsum, pandas, pyarrow, scikit-learn, scipy, tensorboard, tensorflow
 oauthlib==3.1.0           # via requests-oauthlib
 opt-einsum==3.1.0         # via tensorflow
 pandas==1.1.4             # via -r requirements.in, catboost, gordo-dataset, mlflow
