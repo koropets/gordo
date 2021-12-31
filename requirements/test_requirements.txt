@@ -36,7 +36,7 @@ jupyter-console==6.0.0    # via jupyter
 jupyter-core==4.6.1       # via jupyter-client, nbconvert, nbformat, notebook, qtconsole
 jupyter==1.0.0            # via -r test_requirements.in
 markupsafe==1.1.1         # via -c full_requirements.txt, jinja2
-mistune==0.8.4            # via nbconvert
+mistune==2.0.1            # via nbconvert
 mock==3.0.5               # via -r test_requirements.in
 more-itertools==8.1.0     # via -c full_requirements.txt, pytest, zipp
 mypy-extensions==0.4.3    # via -c full_requirements.txt, mypy
