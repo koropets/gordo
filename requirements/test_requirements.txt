@@ -59,7 +59,7 @@ py==1.8.1                 # via pytest
 pycparser==2.19           # via -c full_requirements.txt, cffi
 pyflakes==2.1.1           # via pytest-flakes
 pygments==2.5.2           # via ipython, jupyter-console, nbconvert, qtconsole
-pyjwt==1.7.1              # via -c full_requirements.txt, adal
+pyjwt==2.4.0              # via -c full_requirements.txt, adal
 pyparsing==2.4.6          # via -c full_requirements.txt, packaging
 pyrsistent==0.15.7        # via -c full_requirements.txt, jsonschema
 pytest-benchmark==3.2.3   # via -r test_requirements.in
