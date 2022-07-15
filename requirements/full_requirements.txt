@@ -20,7 +20,7 @@ azure-mgmt-containerregistry==2.8.0  # via azureml-core
 azure-mgmt-keyvault==2.0.0  # via azureml-core
 azure-mgmt-resource==8.0.0  # via azureml-core
 azure-mgmt-storage==7.1.0  # via azureml-core
-azure-storage-blob==12.4.0  # via azure-storage-file-datalake
+azure-storage-blob==12.13.0  # via azure-storage-file-datalake
 azure-storage-file-datalake==12.1.2  # via gordo-dataset
 azureml-contrib-run==1.0.85  # via -r mlflow_requirements.in
 azureml-core==1.0.85      # via azureml-mlflow
