@@ -41,7 +41,7 @@ mock==3.0.5               # via -r test_requirements.in
 more-itertools==8.1.0     # via -c full_requirements.txt, pytest, zipp
 mypy-extensions==0.4.3    # via -c full_requirements.txt, mypy
 mypy==0.761               # via pytest-mypy
-nbconvert==5.6.1          # via -r test_requirements.in, jupyter, notebook
+nbconvert==6.3.0b0          # via -r test_requirements.in, jupyter, notebook
 nbformat==5.0.3           # via ipywidgets, nbconvert, notebook
 notebook==6.0.2           # via -r test_requirements.in, jupyter, widgetsnbextension
 packaging==20.0           # via bleach, pytest
