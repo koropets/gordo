@@ -66,7 +66,7 @@ itsdangerous==1.1.0       # via flask
 jeepney==0.6.0            # via -r requirements.in, secretstorage
 jinja2==2.10.3            # via -r requirements.in, flask
 jmespath==0.9.4           # via azureml-core
-joblib==0.14.1            # via scikit-learn
+joblib==1.2.0            # via scikit-learn
 jsonpickle==1.2           # via azureml-core, azureml-mlflow
 jsonschema==3.2.0         # via flask-restplus
 keras-applications==1.0.8  # via tensorflow
