@@ -98,7 +98,7 @@ plotly==4.4.1             # via catboost
 portalocker==1.7.1        # via msal-extensions
 prometheus-client==0.7.1  # via -r requirements.in, prometheus-flask-exporter
 prometheus-flask-exporter==0.12.1  # via mlflow
-protobuf==3.11.2          # via mlflow, tensorboard, tensorflow
+protobuf==3.18.3          # via mlflow, tensorboard, tensorflow
 psycopg2-binary==2.8.4    # via -r postgres_requirements.in
 pyarrow==0.17.1           # via gordo-dataset
 pyasn1-modules==0.2.8     # via google-auth
