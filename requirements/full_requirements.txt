@@ -45,7 +45,7 @@ dictdiffer==0.8.1         # via -r requirements.in
 docker==4.1.0             # via azureml-core, mlflow
 entrypoints==0.3          # via mlflow
 flask-restplus==0.13.0    # via -r requirements.in
-flask==1.1.1              # via -r requirements.in, flask-restplus, mlflow, prometheus-flask-exporter
+flask==2.2.5              # via -r requirements.in, flask-restplus, mlflow, prometheus-flask-exporter
 gast==0.2.2               # via tensorflow
 gitdb2==2.0.6             # via gitpython
 gitpython==3.0.5          # via mlflow
