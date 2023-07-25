@@ -30,7 +30,7 @@ backports.weakref==1.0.post1  # via backports.tempfile
 cachetools==4.1.1         # via -r requirements.in, google-auth, gordo-dataset
 catboost==0.20.2          # via -r requirements.in
 cchardet==2.1.5           # via -r requirements.in
-certifi==2019.11.28       # via msrest, requests
+certifi==2023.7.22       # via msrest, requests
 cffi==1.13.2              # via azure-datalake-store, cryptography
 chardet==3.0.4            # via requests
 click==7.0                # via -r requirements.in, databricks-cli, flask, mlflow
