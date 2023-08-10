@@ -55,7 +55,7 @@ google-pasta==0.1.8       # via tensorflow
 gordo-dataset==2.2.0      # via -r requirements.in
 gorilla==0.3.0            # via mlflow
 graphviz==0.13.2          # via catboost
-grpcio==1.26.0            # via tensorboard, tensorflow
+grpcio==1.53.2            # via tensorboard, tensorflow
 gunicorn==20.0.4          # via -r requirements.in, mlflow
 h5py==2.10.0              # via -r requirements.in, keras-applications
 idna==2.8                 # via requests
