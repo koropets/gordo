@@ -48,7 +48,7 @@ flask-restplus==0.13.0    # via -r requirements.in
 flask==1.1.1              # via -r requirements.in, flask-restplus, mlflow, prometheus-flask-exporter
 gast==0.2.2               # via tensorflow
 gitdb2==2.0.6             # via gitpython
-gitpython==3.0.5          # via mlflow
+gitpython==3.1.35          # via mlflow
 google-auth-oauthlib==0.4.1  # via tensorboard
 google-auth==1.10.1       # via google-auth-oauthlib, tensorboard
 google-pasta==0.1.8       # via tensorflow
