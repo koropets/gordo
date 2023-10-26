@@ -16,7 +16,7 @@ cffi==1.13.2              # via -c full_requirements.txt, cryptography
 chardet==3.0.4            # via -c full_requirements.txt, requests
 click==7.0                # via -c full_requirements.txt, black
 coverage==5.0.3           # via pytest-cov
-cryptography==2.8         # via -c full_requirements.txt, adal
+cryptography==41.0.5         # via -c full_requirements.txt, adal
 decorator==4.4.1          # via ipython, traitlets
 defusedxml==0.6.0         # via nbconvert
 docker==4.1.0             # via -c full_requirements.txt, -r test_requirements.in
