@@ -137,7 +137,7 @@ typing-extensions==3.7.4.1  # via -r requirements.in, gordo-dataset, typing-insp
 typing-inspect==0.5.0     # via dataclasses-json
 urllib3==1.25.7           # via -r requirements.in, azureml-core, requests
 websocket-client==0.57.0  # via docker
-werkzeug==0.16.1          # via -r requirements.in, flask, tensorboard
+werkzeug==3.0.1          # via -r requirements.in, flask, tensorboard
 wheel==0.33.6             # via tensorboard, tensorflow
 wrapt==1.11.2             # via -r requirements.in, tensorflow
 zipp==2.0.0               # via importlib-metadata
