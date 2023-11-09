@@ -100,7 +100,7 @@ prometheus-client==0.7.1  # via -r requirements.in, prometheus-flask-exporter
 prometheus-flask-exporter==0.12.1  # via mlflow
 protobuf==3.11.2          # via mlflow, tensorboard, tensorflow
 psycopg2-binary==2.8.4    # via -r postgres_requirements.in
-pyarrow==0.17.1           # via gordo-dataset
+pyarrow==14.0.1           # via gordo-dataset
 pyasn1-modules==0.2.8     # via google-auth
 pyasn1==0.4.8             # via ndg-httpsclient, pyasn1-modules, rsa
 pycparser==2.19           # via cffi
