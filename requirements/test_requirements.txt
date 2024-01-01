@@ -52,7 +52,7 @@ pexpect==4.7.0            # via ipython
 pickleshare==0.7.5        # via ipython
 pluggy==0.13.1            # via pytest
 prometheus-client==0.7.1  # via -c full_requirements.txt, notebook
-prompt-toolkit==2.0.10    # via ipython, jupyter-console
+prompt-toolkit==3.0.13    # via ipython, jupyter-console
 ptyprocess==0.6.0         # via pexpect, terminado
 py-cpuinfo==5.0.0         # via pytest-benchmark
 py==1.8.1                 # via pytest
