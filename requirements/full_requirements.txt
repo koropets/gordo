@@ -58,7 +58,7 @@ graphviz==0.13.2          # via catboost
 grpcio==1.26.0            # via tensorboard, tensorflow
 gunicorn==20.0.4          # via -r requirements.in, mlflow
 h5py==2.10.0              # via -r requirements.in, keras-applications
-idna==2.8                 # via requests
+idna==3.7                 # via requests
 importlib-metadata==1.4.0  # via jsonschema
 influxdb==5.3.0           # via gordo-dataset
 isodate==0.6.0            # via msrest
