@@ -56,7 +56,7 @@ gordo-dataset==2.2.0      # via -r requirements.in
 gorilla==0.3.0            # via mlflow
 graphviz==0.13.2          # via catboost
 grpcio==1.26.0            # via tensorboard, tensorflow
-gunicorn==20.0.4          # via -r requirements.in, mlflow
+gunicorn==22.0.0          # via -r requirements.in, mlflow
 h5py==2.10.0              # via -r requirements.in, keras-applications
 idna==2.8                 # via requests
 importlib-metadata==1.4.0  # via jsonschema
