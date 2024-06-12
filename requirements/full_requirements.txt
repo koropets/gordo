@@ -14,7 +14,7 @@ azure-common==1.1.24      # via azure-graphrbac, azure-mgmt-authorization, azure
 azure-core==1.8.1         # via azure-identity, azure-storage-blob, azure-storage-file-datalake
 azure-datalake-store==0.0.51  # via gordo-dataset
 azure-graphrbac==0.61.1   # via azureml-core
-azure-identity==1.4.0     # via -r requirements.in, gordo-dataset
+azure-identity==1.16.1     # via -r requirements.in, gordo-dataset
 azure-mgmt-authorization==0.60.0  # via azureml-core
 azure-mgmt-containerregistry==2.8.0  # via azureml-core
 azure-mgmt-keyvault==2.0.0  # via azureml-core
