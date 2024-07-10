@@ -91,7 +91,7 @@ wcwidth==0.1.8            # via prompt-toolkit, pytest
 webencodings==0.5.1       # via bleach
 websocket-client==0.57.0  # via -c full_requirements.txt, docker
 widgetsnbextension==3.5.1  # via ipywidgets
-zipp==2.0.0               # via -c full_requirements.txt, importlib-metadata
+zipp==3.19.1               # via -c full_requirements.txt, importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
