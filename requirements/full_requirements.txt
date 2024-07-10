@@ -140,7 +140,7 @@ websocket-client==0.57.0  # via docker
 werkzeug==0.16.1          # via -r requirements.in, flask, tensorboard
 wheel==0.33.6             # via tensorboard, tensorflow
 wrapt==1.11.2             # via -r requirements.in, tensorflow
-zipp==2.0.0               # via importlib-metadata
+zipp==3.19.1               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
