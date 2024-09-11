@@ -104,7 +104,7 @@ pyarrow==0.17.1           # via gordo-dataset
 pyasn1-modules==0.2.8     # via google-auth
 pyasn1==0.4.8             # via ndg-httpsclient, pyasn1-modules, rsa
 pycparser==2.19           # via cffi
-pyjwt[crypto]==1.7.1      # via adal, azureml-core, msal
+pyjwt==2.4.0      # via adal, azureml-core, msal
 pyopenssl==19.1.0         # via azureml-core, ndg-httpsclient
 pyparsing==2.4.6          # via matplotlib
 pyrsistent==0.15.7        # via jsonschema
@@ -135,7 +135,7 @@ termcolor==1.1.0          # via tensorflow
 threadpoolctl==2.1.0      # via scikit-learn
 typing-extensions==3.7.4.1  # via -r requirements.in, gordo-dataset, typing-inspect
 typing-inspect==0.5.0     # via dataclasses-json
-urllib3==1.25.7           # via -r requirements.in, azureml-core, requests
+urllib3==1.26.19           # via -r requirements.in, azureml-core, requests
 websocket-client==0.57.0  # via docker
 werkzeug==0.16.1          # via -r requirements.in, flask, tensorboard
 wheel==0.33.6             # via tensorboard, tensorflow
