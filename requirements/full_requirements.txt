@@ -56,7 +56,7 @@ gordo-dataset==2.2.0      # via -r requirements.in
 gorilla==0.3.0            # via mlflow
 graphviz==0.13.2          # via catboost
 grpcio==1.26.0            # via tensorboard, tensorflow
-gunicorn==20.0.4          # via -r requirements.in, mlflow
+gunicorn==23.0.0          # via -r requirements.in, mlflow
 h5py==2.10.0              # via -r requirements.in, keras-applications
 idna==2.8                 # via requests
 importlib-metadata==1.4.0  # via jsonschema
@@ -78,7 +78,7 @@ markupsafe==1.1.1         # via jinja2, mako
 marshmallow-enum==1.5.1   # via dataclasses-json
 marshmallow==3.3.0        # via dataclasses-json, gordo-dataset, marshmallow-enum
 matplotlib==3.1.2         # via catboost
-mlflow==1.5.0             # via -r mlflow_requirements.in, azureml-mlflow
+mlflow==2.20.2             # via -r mlflow_requirements.in, azureml-mlflow
 more-itertools==8.1.0     # via zipp
 msal-extensions==0.2.2    # via azure-identity
 msal==1.5.0               # via azure-identity, msal-extensions
