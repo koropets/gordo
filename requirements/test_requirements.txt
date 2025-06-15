@@ -75,7 +75,7 @@ python-dateutil==2.8.1    # via -c full_requirements.txt, adal, jupyter-client
 pyzmq==18.1.1             # via jupyter-client, notebook
 qtconsole==4.6.0          # via jupyter
 regex==2020.1.8           # via black
-requests==2.22.0          # via -c full_requirements.txt, adal, docker, responses
+requests==2.32.4          # via -c full_requirements.txt, adal, docker, responses
 responses==0.10.9         # via -r test_requirements.in
 send2trash==1.5.0         # via notebook
 six==1.14.0               # via -c full_requirements.txt, bleach, cryptography, docker, jsonschema, mock, packaging, prompt-toolkit, pyrsistent, pytest-xdist, python-dateutil, responses, traitlets, websocket-client
