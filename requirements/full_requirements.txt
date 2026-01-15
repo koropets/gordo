@@ -11,7 +11,7 @@ aniso8601==8.0.0          # via flask-restplus
 astor==0.8.1              # via tensorflow
 attrs==19.3.0             # via jsonschema
 azure-common==1.1.24      # via azure-graphrbac, azure-mgmt-authorization, azure-mgmt-containerregistry, azure-mgmt-keyvault, azure-mgmt-resource, azure-mgmt-storage, azureml-core
-azure-core==1.8.1         # via azure-identity, azure-storage-blob, azure-storage-file-datalake
+azure-core==1.38.0         # via azure-identity, azure-storage-blob, azure-storage-file-datalake
 azure-datalake-store==0.0.51  # via gordo-dataset
 azure-graphrbac==0.61.1   # via azureml-core
 azure-identity==1.4.0     # via -r requirements.in, gordo-dataset
@@ -78,7 +78,7 @@ markupsafe==1.1.1         # via jinja2, mako
 marshmallow-enum==1.5.1   # via dataclasses-json
 marshmallow==3.3.0        # via dataclasses-json, gordo-dataset, marshmallow-enum
 matplotlib==3.1.2         # via catboost
-mlflow==1.5.0             # via -r mlflow_requirements.in, azureml-mlflow
+mlflow==3.5.0rc0             # via -r mlflow_requirements.in, azureml-mlflow
 more-itertools==8.1.0     # via zipp
 msal-extensions==0.2.2    # via azure-identity
 msal==1.5.0               # via azure-identity, msal-extensions
@@ -137,7 +137,7 @@ typing-extensions==3.7.4.1  # via -r requirements.in, gordo-dataset, typing-insp
 typing-inspect==0.5.0     # via dataclasses-json
 urllib3==1.25.7           # via -r requirements.in, azureml-core, requests
 websocket-client==0.57.0  # via docker
-werkzeug==0.16.1          # via -r requirements.in, flask, tensorboard
+werkzeug==3.1.5          # via -r requirements.in, flask, tensorboard
 wheel==0.33.6             # via tensorboard, tensorflow
 wrapt==1.11.2             # via -r requirements.in, tensorflow
 zipp==2.0.0               # via importlib-metadata
