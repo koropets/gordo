@@ -102,7 +102,7 @@ protobuf==3.11.2          # via mlflow, tensorboard, tensorflow
 psycopg2-binary==2.8.4    # via -r postgres_requirements.in
 pyarrow==0.17.1           # via gordo-dataset
 pyasn1-modules==0.2.8     # via google-auth
-pyasn1==0.4.8             # via ndg-httpsclient, pyasn1-modules, rsa
+pyasn1==0.6.2             # via ndg-httpsclient, pyasn1-modules, rsa
 pycparser==2.19           # via cffi
 pyjwt[crypto]==1.7.1      # via adal, azureml-core, msal
 pyopenssl==19.1.0         # via azureml-core, ndg-httpsclient
@@ -138,7 +138,7 @@ typing-inspect==0.5.0     # via dataclasses-json
 urllib3==1.25.7           # via -r requirements.in, azureml-core, requests
 websocket-client==0.57.0  # via docker
 werkzeug==0.16.1          # via -r requirements.in, flask, tensorboard
-wheel==0.33.6             # via tensorboard, tensorflow
+wheel==0.46.2             # via tensorboard, tensorflow
 wrapt==1.11.2             # via -r requirements.in, tensorflow
 zipp==2.0.0               # via importlib-metadata
 
