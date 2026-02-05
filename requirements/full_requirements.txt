@@ -78,7 +78,7 @@ markupsafe==1.1.1         # via jinja2, mako
 marshmallow-enum==1.5.1   # via dataclasses-json
 marshmallow==3.3.0        # via dataclasses-json, gordo-dataset, marshmallow-enum
 matplotlib==3.1.2         # via catboost
-mlflow==1.5.0             # via -r mlflow_requirements.in, azureml-mlflow
+mlflow==3.4.0rc0             # via -r mlflow_requirements.in, azureml-mlflow
 more-itertools==8.1.0     # via zipp
 msal-extensions==0.2.2    # via azure-identity
 msal==1.5.0               # via azure-identity, msal-extensions
@@ -98,7 +98,7 @@ plotly==4.4.1             # via catboost
 portalocker==1.7.1        # via msal-extensions
 prometheus-client==0.7.1  # via -r requirements.in, prometheus-flask-exporter
 prometheus-flask-exporter==0.12.1  # via mlflow
-protobuf==3.11.2          # via mlflow, tensorboard, tensorflow
+protobuf==5.29.6          # via mlflow, tensorboard, tensorflow
 psycopg2-binary==2.8.4    # via -r postgres_requirements.in
 pyarrow==0.17.1           # via gordo-dataset
 pyasn1-modules==0.2.8     # via google-auth
